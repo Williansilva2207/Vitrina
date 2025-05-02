@@ -55,6 +55,13 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
     <td align="center">Noemi Soares</td>
     <td align="center"><a href="https://github.com/noemisoares">@noemisoares</a></td>
   </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ChristianLucas029.png" width="100px" style="border-radius:50%;" alt="Christian Araújo"/>
+    </td>
+    <td align="center">Christian Araújo</td>
+    <td align="center"><a href="https://github.com/ChristianLucas029">@ChristianLucas029</a></td>
+  </tr>
 </table>
 
 
