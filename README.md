@@ -33,7 +33,6 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
 1. Clone o repositório
 
 
-### 9. **Contribuidores**
 
 ## 🧑‍💻 Contribuidores
 
