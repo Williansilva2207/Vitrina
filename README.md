@@ -37,11 +37,28 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
 
 ## 🧑‍💻 Contribuidores
 
-Foto | Nome | GitHub |
+<table align="center">
+  <tr>
+    <th>Foto</th>
+    <th>Nome</th>
+    <th>GitHub</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/roygithub.png" width="100px" style="border-radius:50%;" alt="Roy"/>
+    </td>
+    <td align="center">Roy</td>
+    <td align="center"><a href="https://github.com/roygithub">@roygithub</a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/noemisoares.png" width="100px" style="border-radius:50%;" alt="Noemi Soares"/>
+    </td>
+    <td align="center">Noemi Soares</td>
+    <td align="center"><a href="https://github.com/noemisoares">@noemisoares</a></td>
+  </tr>
+</table>
 
-<img src="https://github.com/roygithub.png" width="100px;" style="border-radius:50%;" />      <img src="https://github.com/noemisoares.png" width="100px;" style="border-radius:50%;" />     
-
-| Roy | [@roygithub](https://github.com/roygithub) |                                                   | Noemi Soares | [@noemisoares](https://github.com/noemisoares) |
 
 
 
