@@ -9,7 +9,6 @@
 - [📷 Capturas de Tela](#-capturas-de-tela)
 - [📦 Como Usar](#-como-usar)
 - [🧑‍💻 Contribuidores](#-contribuidores)
-- [📄 Licença](#-licença)
   
 ## 📌 Sobre o Projeto
 
