@@ -16,7 +16,7 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
 
 ## 🚀 Tecnologias Usadas
 
-<div align="center">
+<div>
   <div style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
     <br />
