@@ -1,6 +1,11 @@
 # Analise e Projeto de Software
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ## Descrição
+Este projeto tem como objetivo promover a indústria criativa e sustentável em espaços urbanos, apoiando pequenos negócios e empreendedores locais. A aplicação visa conectar esses negócios com as comunidades urbanas por meio de uma plataforma digital, promovendo a visibilidade e o desenvolvimento dessas iniciativas.
+
+Ao unir pequenos negociantes e suas atividades em áreas urbanas revitalizadas ou em novos centros de desenvolvimento planejados, buscamos contribuir para a diversificação econômica, a criação de comunidades mais autossuficientes e a promoção da sustentabilidade urbana.
+
+A plataforma oferece funcionalidades para que os empreendedores possam divulgar seus serviços, possibilitando uma interação mais próxima com o público local, além de fortalecer a economia criativa e os negócios sustentáveis nas cidades.
 
 ## Índice
 - [📌 Sobre o Projeto](#-sobre-o-projeto)
@@ -12,7 +17,7 @@
   
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite que [descrição do que ele faz e para quem ele serve].
+Este projeto busca formentar a indústria criativa e sustentáveil em espaços urbanos unindo esses pequenos negócios em espaços urbanos revitalizados ou em novas áreas de desenvolvimento planejado, promovendo a diversidade econômica e a criação de comunidades mais autossuficientes por meio de uma aplicação, a qual divulgará os serviços dos negociantes.
 
 ## 🚀 Tecnologias Usadas
 
