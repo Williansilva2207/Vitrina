@@ -35,12 +35,10 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
 ## 📦 Como Usar
 
 1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
 
 
 ### 9. **Contribuidores**
-```markdown
+
 ## 🧑‍💻 Contribuidores
 
 | Nome | GitHub |
