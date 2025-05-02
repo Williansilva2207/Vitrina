@@ -39,9 +39,10 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
 
 Foto | Nome | GitHub |
 
-<img src="https://github.com/roygithub.png" width="100px;" style="border-radius:50%;" /> | Roy | [@roygithub](https://github.com/roygithub) |
+<img src="https://github.com/roygithub.png" width="100px;" style="border-radius:50%;" /> 
+| Roy | [@roygithub](https://github.com/roygithub) |
 
-| Fulano | [@fulanogithub](https://github.com/fulanogithub) |
+
 
 
 
