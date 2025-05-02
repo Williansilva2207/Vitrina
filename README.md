@@ -23,14 +23,10 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
 
 ## ⚙️ Funcionalidades
 
-- [x] Cadastro e login de usuários
-- [x] Reservas com datas e horários
-- [ ] Notificações em tempo real (em andamento)
+
 
 ## 📷 Capturas de Tela
 
-![Login](assets/login-page.png)
-![Dashboard](assets/dashboard.png)
 
 ## 📦 Como Usar
 
@@ -45,6 +41,8 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
 |------|--------|
 | Roy | [@roygithub](https://github.com/roygithub) |
 | Fulano | [@fulanogithub](https://github.com/fulanogithub) |
+<img src="https://github.com/roygithub.png" width="100px;" style="border-radius:50%;" />
+
 
 
 
