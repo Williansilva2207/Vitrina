@@ -45,10 +45,10 @@ Este projeto foi desenvolvido para resolver o problema de X em Y. Ele permite qu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/roygithub.png" width="100px" style="border-radius:50%;" alt="Roy"/>
+      <img src="https://github.com/Williansilva2207" width="100px" style="border-radius:50%;" alt="Willian Rodrigues"/>
     </td>
-    <td align="center">Roy</td>
-    <td align="center"><a href="https://github.com/roygithub">@roygithub</a></td>
+    <td align="center">Willian Rodrigues</td>
+    <td align="center"><a href="https://github.com/Williansilva2207">@Williansilva2207</a></td>
   </tr>
   <tr>
     <td align="center">
