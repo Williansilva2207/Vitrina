@@ -55,7 +55,7 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/noemisoares.png" width="100px" style="border-radius:50%;" alt="Noemi Soares"/>
+      <img src="https://media-for2-1.cdn.whatsapp.net/v/t61.24694-24/294114031_106036565529872_5350953958641363157_n.jpg?ccb=11-4&oh=01_Q5Aa1QHkx_HfYTRf0cloxRJVrksywhLSE5ltw3_YpZ81-  BlTNQ&oe=68214E8F&_nc_sid=5e03e0&_nc_cat=106.png" width="100px" style="border-radius:50%;" alt="Noemi Soares"/>
     </td>
     <td align="center">Noemi Soares</td>
     <td align="center"><a href="https://github.com/noemisoares">@noemisoares</a></td>
