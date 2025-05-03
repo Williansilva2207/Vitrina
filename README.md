@@ -27,6 +27,7 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
 
 ## ⚙️ Funcionalidades
 
+![image](https://github.com/user-attachments/assets/97e6eec2-aa6c-471c-97c9-c483805f809f)
 
 
 ## 📷 Capturas de Tela
