@@ -67,13 +67,6 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
     <td align="center">Christian Araújo</td>
     <td align="center"><a href="https://github.com/ChristianLucas029">@ChristianLucas029</a></td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/noemisoares.png" width="100px" style="border-radius:50%;" alt="Noemi Soares"/>
-    </td>
-    <td align="center">Noemi Soares</td>
-    <td align="center"><a href="https://github.com/noemisoares">@noemisoares</a></td>
-  </tr>
     <tr>
     <td align="center">
       <img src="https://github.com/ricardonerys.png" width="100px" style="border-radius:50%;" alt="Ricardo Nery"/>
