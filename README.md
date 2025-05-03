@@ -55,8 +55,8 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
   </tr>
   <tr>
     <td align="center">
-      <img src="file:///C:/Users/willi/OneDrive/Imagens/Equipe/file.enc".png alt="Noemi Soares"/>
-    </td>
+      <img src="https://github.com/noemisoares.png" width="100px" style="border-radius:50%;" alt="Noemi Soares"/>
+ </td>
     <td align="center">Noemi Soares</td>
     <td align="center"><a href="https://github.com/noemisoares">@noemisoares</a></td>
   </tr>
