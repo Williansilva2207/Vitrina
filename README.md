@@ -26,9 +26,9 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
 - MySQL
 
 ## ⚙️ Funcionalidades
-
+<td align="center">
 <img src="https://github.com/user-attachments/assets/97e6eec2-aa6c-471c-97c9-c483805f809f" width="600px" alt="Funcionalidades"/>
-
+<td>
 ## 📷 Capturas de Tela
 
 
