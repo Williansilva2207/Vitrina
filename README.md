@@ -35,7 +35,7 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
 ## 📦 Como Usar
 
 1. Clone o repositório
-
+git clone 
 
 
 ## 🧑‍💻 Contribuidores
