@@ -1,4 +1,4 @@
-# Analise e Projeto de Software
+# *VITRINA*
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ## Descrição
 Este projeto tem como objetivo promover a indústria criativa e sustentável em espaços urbanos, apoiando pequenos negócios e empreendedores locais. A aplicação visa conectar esses negócios com as comunidades urbanas por meio de uma plataforma digital, promovendo a visibilidade e o desenvolvimento dessas iniciativas.
