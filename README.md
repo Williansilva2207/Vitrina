@@ -82,6 +82,13 @@ git clone https://github.com/Williansilva2207/Vitrina
     <td align="center">Ricardo Nery</td>
     <td align="center"><a href="https://github.com/ricardonerys">@ricardonerys</a></td>
   </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/Edrey123.png" width="100px" style="border-radius:50%;" alt="Edrey"/>
+    </td>
+    <td align="center">Edrey</td>
+    <td align="center"><a href="https://github.com/Edrey123">@Edrey123</a></td>
+  </tr>
 </table>
 
 
