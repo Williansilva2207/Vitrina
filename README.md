@@ -89,6 +89,13 @@ git clone https://github.com/Williansilva2207/Vitrina
     <td align="center">Edrey</td>
     <td align="center"><a href="https://github.com/Edrey123">@Edrey123</a></td>
   </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/joaodafontequeiroz.png" width="100px" style="border-radius:50%;" alt="João Fonte"/>
+    </td>
+    <td align="center">João Fonte</td>
+    <td align="center"><a href="https://github.com/joaodafontequeiroz">@joaodafontequeiroz</a></td>
+  </tr>
 </table>
 
 
