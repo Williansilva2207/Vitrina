@@ -31,6 +31,7 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
 
 ## Trello
 <img src="https://github.com/user-attachments/assets/fa40d2be-fc58-4dfb-9acb-092c8cccf6a0" width='600px' alt="Funcionalidades"/>
+Link: https://trello.com/b/5ZN0e4oa/vitrina
 
 
 ## 📷 Capturas de Tela
