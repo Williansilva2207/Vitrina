@@ -38,7 +38,11 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
 
 
 ## 📷 Figma
-👉 [Acesse o Figma](https://www.figma.com/design/0nyjoYcv1ryzVKHHBweSma/Vitrina?node-id=0-1&p=f&t=zXmNvVRWUTzQOckQ-0)
+Confira abaixo o vídeo demonstrativo do protótipo desenvolvido pela equipe.
+
+*video aqui*
+
+👉 [Acesse o Figma](https://www.figma.com/proto/0nyjoYcv1ryzVKHHBweSma/Vitrina?node-id=2004-24&p=f&t=7GZ6xYBXpNKqJQoC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2004%3A24)
 
 ## 📦 Como Usar
 
