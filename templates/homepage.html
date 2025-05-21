@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Vitrina - Destaque seu Negócio</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    body {
+      background: #fff;
+      color: #333;
+    }
+
+    header {
+      background: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    header .logo {
+      font-weight: bold;
+      color: #3c0057;
+      font-size: 24px;
+    }
+
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #444;
+      font-weight: 500;
+    }
+
+    nav a:last-child {
+      background: #3c0057;
+      color: #fff;
+      padding: 8px 14px;
+      border-radius: 5px;
+    }
+
+    .hero {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 60px 20px;
+      background: #f9f9f9;
+    }
+
+    .hero h1 {
+      font-size: 38px;
+      color: #3c0057;
+      margin-bottom: 10px;
+    }
+
+    .hero p {
+      max-width: 600px;
+      margin: 20px 0;
+      font-size: 16px;
+    }
+
+    .hero button {
+      background: #3c0057;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .services {
+      background: #3c0057;
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+    }
+
+    .services h2 {
+      font-size: 28px;
+      margin-bottom: 40px;
+    }
+
+    .service-items {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+
+    .service-item {
+      width: 250px;
+    }
+
+    .service-item h3 {
+      margin-bottom: 10px;
+      font-size: 20px;
+    }
+
+    .interaction, .features {
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    .interaction h2, .features h2 {
+      font-size: 28px;
+      color: #3c0057;
+      margin-bottom: 20px;
+    }
+
+    .features .feature-items {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      flex-wrap: wrap;
+      margin-top: 30px;
+    }
+
+    .feature-item {
+      width: 220px;
+    }
+
+    .faq {
+      background: #f9f9f9;
+      padding: 60px 20px;
+    }
+
+    .faq h2 {
+      text-align: center;
+      color: #3c0057;
+      font-size: 26px;
+      margin-bottom: 30px;
+    }
+
+    .question {
+      max-width: 700px;
+      margin: 10px auto;
+      padding: 15px;
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    footer {
+      background: #eee;
+      padding: 20px;
+      text-align: center;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">🛍️ Vitrina</div>
+    <nav>
+      <a href="#">Como Funciona</a>
+      <a href="#">Recursos</a>
+      <a href="#">Blog</a>
+      <a href="#">Entrar</a>
+      <a href="#">Registrar-se</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>DESTAQUE SEU NEGÓCIO<br>COM UM PERFIL DE NEGÓCIO GRATUITO</h1>
+    <p>Transforme sua presença online com um perfil gratuito. Alcance mais clientes, publique atualizações, receba avaliações e muito mais — tudo em um só lugar.</p>
+    <button>Começar agora</button>
+  </section>
+
+  <section class="services">
+    <h2>IMPULSIONE SEU NEGÓCIO AGORA</h2>
+    <div class="service-items">
+      <div class="service-item">
+        <h3>Consultoria Estratégica</h3>
+        <p>Planejamento digital sob medida para negócios locais.</p>
+      </div>
+      <div class="service-item">
+        <h3>Marketing Digital Inovador</h3>
+        <p>Alcance novos públicos com campanhas eficazes.</p>
+      </div>
+      <div class="service-item">
+        <h3>Gestão de Redes</h3>
+        <p>Maximize sua presença com agendamento e insights.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="interaction">
+    <h2>INTERAJA FACILMENTE COM OS CLIENTES</h2>
+    <p>Deixe os clientes informados com postagens, ofertas, imagens de destaque e muito mais.</p>
+  </section>
+
+  <section class="features">
+    <h2>MOSTRE O MELHOR DO SEU NEGÓCIO</h2>
+    <div class="feature-items">
+      <div class="feature-item">
+        <h3>📍 Reivindicar</h3>
+        <p>Assuma o controle da sua página de negócio gratuitamente.</p>
+      </div>
+      <div class="feature-item">
+        <h3>🎨 Personalizar</h3>
+        <p>Adicione fotos, horário de funcionamento e muito mais.</p>
+      </div>
+      <div class="feature-item">
+        <h3>📊 Gerenciar</h3>
+        <p>Acompanhe visualizações, avaliações e presença no Google.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="faq">
+    <h2>RESPOSTAS PARA SUAS PERGUNTAS</h2>
+    <div class="question">01. O perfil na Vitrina é gratuito?</div>
+    <div class="question">02. Minha empresa não tem um estabelecimento físico. Posso criar mesmo assim?</div>
+    <div class="question">03. Faz diferença se eu usar os dados para gerir e conhecer meu perfil?</div>
+  </section>
+
+  <footer>
+    ©2025 Vitrina, Inc. — Quem Somos? — Parcerias — Termos & Privacidade
+  </footer>
+
+</body>
+</html>
