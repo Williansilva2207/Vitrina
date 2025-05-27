@@ -106,6 +106,13 @@ git clone https://github.com/Williansilva2207/Vitrina
     <td align="center">João Fonte</td>
     <td align="center"><a href="https://github.com/joaodafontequeiroz">@joaodafontequeiroz</a></td>
   </tr>
+   <tr>
+    <td align="center">
+      <img src="https://github.com/addson18.png" width="100px" style="border-radius:50%;" alt="Adson Cardoso"/>
+    </td>
+    <td align="center">João Fonte</td>
+    <td align="center"><a href="https://github.com/addson18">@addson18</a></td>
+  </tr>
 </table>
 
 
