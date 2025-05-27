@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -236,9 +237,9 @@
 </head>
 <body>
   <header>
-    <div class="logo">
-      <img src="imagens/logomarca_branca.png" alt="Logo">
-    </div>
+    <a href="{% url 'homepage' %}" class="logo">
+      <img src="{% static 'imagens/logomarca_branca.png' %}" alt="Logo">
+    </a>
     <div class="icons">
       <span class="material-icons">notifications</span>
       <span class="material-icons">account_circle</span>

@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -151,7 +152,7 @@
 </head>
 <body>
   <header>
-    <div class="inicio-link"><a href="#">← Início</a></div>
+    <div class="inicio-link"><a href="{% url 'homepage' %}">← Início</a></div>
 
     <nav>
       <a href="#">Explorar</a>
@@ -176,7 +177,7 @@
       <p><i class="material-icons">location_on</i> São Paulo, SP</p>
 
       <div class="menu">
-        <a href="#"><span><i class="material-icons">favorite</i> Lojas favoritas</span><span>›</span></a>
+        <a href="{% url 'vitrine' %}"><span><i class="material-icons">favorite</i> Lojas favoritas</span><span>›</span></a>
         <a href="#"><span><i class="material-icons">history</i> Visitadas recentemente</span><span>›</span></a>
         <a href="#"><span><i class="material-icons">star</i> Lojas avaliadas</span><span>›</span></a>
         <a href="#"><span><i class="material-icons">category</i> Áreas de interesses</span><span>›</span></a>

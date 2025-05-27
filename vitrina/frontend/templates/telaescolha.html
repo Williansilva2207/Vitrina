@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -116,19 +117,19 @@
 </head>
 <body>
   <div class="left">
-    <div class="back-arrow">&#8592;</div>
+    <a href="{% url 'cadastro' %}" class="back-arrow">&#8592;</a>
     <div class="title1">Você é</div>
     <div class="title2">um...</div>
-    <div class="box">
+    <a href="{% url 'perfil' %}" class="box">
       <span class="span-consumidor">Consumidor</span>
-      <img class="img-consumidor" src="imagens/homem_consumidor.png" alt="Consumidor">
-    </div>
+      <img class="img-consumidor" src="{% static 'imagens/homem_consumidor.png' %}" alt="Consumidor">
+    </a>
   </div>
   <div class="right">
-    <div class="box">
+    <a href="{% url 'vitrine' %}" class="box">
       <span class="span-empreendedor">Empreendedor</span>
-      <img class="img-empreendedor" src="imagens/mulher_empreendedor.png" alt="Empreendedor">
-    </div>
+      <img class="img-empreendedor" src="{% static 'imagens/mulher_empreendedor.png' %}" alt="Empreendedor">
+    </a>
   </div>
 </body>
 </html>

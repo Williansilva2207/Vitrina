@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -263,14 +264,14 @@
 <body>
   <header>
     <div class="logo">
-      <img src="imagens/logomarca.png" alt="logo" />
+      <img src="{% static 'imagens/logomarca.png' %}" alt="logo" />
     </div>
     <nav>
       <a href="#">Como Funciona</a>
       <a href="#">Recursos</a>
       <a href="#">Blog</a>
-      <a href="#">Entrar</a>
-      <a href="#">Registrar-se</a>
+      <a href="{% url 'login' %}">Entrar</a>
+      <a href="{% url 'cadastro' %}">Registrar-se</a>
     </nav>
   </header>
 
@@ -279,10 +280,12 @@
       <h1>DESTAQUE SEU NEGÓCIO</h1>
       <h2>COM UM PERFIL DE NEGÓCIOS GRATUITO</h2>
       <p>Transforme sua presença online com um perfil gratuito. Alcance mais clientes, publique atualizações, receba avaliações e muito mais — tudo em um só lugar.</p>
-      <button>Começar agora</button>
+      <a href="{% url 'telaescolha' %}">
+        <button>Começar agora</button>
+      </a>
     </div>
     <div class="hero-image">
-      <img src="imagens/loja_homepage.png" alt="Ilustração do negócio" />
+      <img src="{% static 'imagens/loja_homepage.png' %}" alt="Ilustração do negócio" />
     </div>
   </section>
 
@@ -310,7 +313,7 @@
   <section class="interaction">
     <div class="interaction-wrapper">
       <div class="interaction-image">
-        <img src="imagens/avaliacoes.png" alt="Interação com clientes">
+        <img src="{% static 'imagens/avaliacoes.png' %}" alt="Interação com clientes">
       </div>
       <div class="interaction-text">
         <h2>INTERAJA FACILMENTE COM OS CLIENTES</h2>
