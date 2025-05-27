@@ -11,8 +11,8 @@ A plataforma oferece funcionalidades para que os empreendedores possam divulgar 
 - [📌 Sobre o Projeto](#-sobre-o-projeto)
 - [🚀 Tecnologias Usadas](#-tecnologias-usadas)
 - [⚙️ Funcionalidades](#️-funcionalidades)
-- [📂 Trello](#-trello).
-- [📷 Figma](#-figma)
+- [📂 Trello](#-trello)
+- [💻 Páginas da Aplicação Web](#💻-páginas-da-aplicação-web)
 - [📦 Como Usar](#-como-usar)
 - [🧑‍💻 Contribuidores](#-contribuidores)
   
@@ -47,8 +47,8 @@ https://github.com/user-attachments/assets/cb1ec884-d338-4662-ad56-c6b75ad68088
 
 👉 [Acesse o Figma](https://www.figma.com/proto/0nyjoYcv1ryzVKHHBweSma/Vitrina?node-id=2004-24&p=f&t=7GZ6xYBXpNKqJQoC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2004%3A24)
 
-## 📷 Páginas da Aplicação Web
-<img src="https://github.com/user-attachments/assets/b4c8d247-8c8c-451b-9e6e-4743d35778fa" width="800px" alt="Trello"/>
+## 💻 Páginas da Aplicação Web
+<img src="https://github.com/user-attachments/assets/b4c8d247-8c8c-451b-9e6e-4743d35778fa" width="800px" alt="paginas"/>
 
 ## 📦 Como Usar
 
