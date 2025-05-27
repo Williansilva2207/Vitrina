@@ -22,9 +22,12 @@ Este projeto busca formentar a indústria criativa e sustentáveil em espaços u
 
 ## 🚀 Tecnologias Usadas
 
-- Python
-- Django
-- MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Django  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> Figma  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="20"/> Trello  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20"/> Canva
 
 ## ⚙️ Funcionalidades
 
@@ -43,6 +46,9 @@ Confira abaixo o vídeo demonstrativo do protótipo desenvolvido pela equipe.
 https://github.com/user-attachments/assets/cb1ec884-d338-4662-ad56-c6b75ad68088
 
 👉 [Acesse o Figma](https://www.figma.com/proto/0nyjoYcv1ryzVKHHBweSma/Vitrina?node-id=2004-24&p=f&t=7GZ6xYBXpNKqJQoC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2004%3A24)
+
+## 📷 Páginas da Aplicação Web
+<img src="https://github.com/user-attachments/assets/b4c8d247-8c8c-451b-9e6e-4743d35778fa" width="800px" alt="Trello"/>
 
 ## 📦 Como Usar
 
